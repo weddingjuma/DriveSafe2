@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DriveSafe2</string>
+    <string name="LockActivity">LockActivity</string>
+</resources>
